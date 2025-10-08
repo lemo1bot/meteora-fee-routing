@@ -1,0 +1,29 @@
+# Meteora Fee Routing Program
+
+target/
+.anchor/
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+deployment-info.json
+test-report.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Rust
+Cargo.lock
+**/*.rs.bk
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Solana
+test-ledger/
+.config/

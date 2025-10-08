@@ -1,0 +1,27 @@
+[package]
+name = "meteora-fee-routing"
+version = "0.1.0"
+description = "Permissionless fee routing program for Meteora DLMM V2"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "meteora_fee_routing"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.31.0"
+anchor-spl = "0.31.0"
+solana-program = "2.1.0"
+mpl-token-metadata = "4.1.2"
+spl-token = "4.0.1"
+spl-token-2022 = "2.0.1"
+spl-associated-token-account = "3.0.1"
+bytemuck = { version = "1.13", features = ["derive"] }
+arrayref = "0.3.7"

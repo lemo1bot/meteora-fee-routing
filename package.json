@@ -1,0 +1,40 @@
+{
+  "name": "meteora-fee-routing",
+  "version": "0.1.0",
+  "description": "Permissionless fee routing program for Meteora DLMM V2",
+  "main": "app/index.js",
+  "scripts": {
+    "build": "anchor build",
+    "test": "anchor test",
+    "clean": "anchor clean",
+    "deploy": "anchor deploy",
+    "localnet": "solana-test-validator --reset --quiet",
+    "ts-mocha": "ts-mocha"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.0",
+    "@solana/web3.js": "^1.95.0",
+    "@solana/spl-token": "^0.4.8",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "ts-mocha": "^10.0.0",
+    "@types/mocha": "^10.0.3",
+    "@types/chai": "^4.3.9",
+    "typescript": "^5.2.2",
+    "borsh": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "prettier": "^3.0.3"
+  },
+  "keywords": [
+    "solana",
+    "anchor",
+    "meteora",
+    "dlmm",
+    "fee-routing",
+    "defi"
+  ],
+  "author": "Developer",
+  "license": "MIT"
+}
