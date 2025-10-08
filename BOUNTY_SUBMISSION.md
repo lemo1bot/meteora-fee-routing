@@ -93,7 +93,26 @@ meteora-fee-routing/
 └── BOUNTY_SUBMISSION.md
 ```
 
-## Testing & Validation
+## Getting Started
+
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/lemo1bot/meteora-fee-routing.git
+cd meteora-fee-routing
+
+# Install dependencies
+npm install
+
+# Build the program
+anchor build
+
+# Run tests
+anchor test
+
+# Deploy to devnet
+./scripts/deploy.sh devnet
+```
 
 ### Comprehensive Test Suite
 - Fee vault initialization tests

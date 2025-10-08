@@ -97,7 +97,7 @@ Updates fee vault configuration (authority only).
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/lemo1bot/meteora-fee-routing.git
 cd meteora-fee-routing
 ```
 
