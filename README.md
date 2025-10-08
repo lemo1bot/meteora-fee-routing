@@ -231,9 +231,9 @@ MIT License - see LICENSE file for details
 ## Support
 
 For questions and support:
-- GitHub Issues: [Repository Issues]
-- Discord: [Community Discord]
-- Documentation: [Full Documentation]
+- GitHub Issues: [https://github.com/lemo1bot/meteora-fee-routing/issues](https://github.com/lemo1bot/meteora-fee-routing/issues)
+- Repository: [https://github.com/lemo1bot/meteora-fee-routing](https://github.com/lemo1bot/meteora-fee-routing)
+- Documentation: [README.md](https://github.com/lemo1bot/meteora-fee-routing/blob/main/README.md)
 
 ## Acknowledgments
 

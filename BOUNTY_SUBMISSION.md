@@ -206,7 +206,8 @@ The program is ready for immediate deployment and testing on Solana devnet/mainn
 
 ---
 
-**Submitted for**: Meteora DLMM V2 Fee Routing Bounty
-**Total Prize**: 7,500 USDC
-**Deadline**: October 17, 2025
-**Contact**: GitHub Repository + Documentation
+**Submitted for**: Meteora DLMM V2 Fee Routing Bounty  
+**Total Prize**: 7,500 USDC  
+**Deadline**: October 17, 2025  
+**GitHub Repository**: https://github.com/lemo1bot/meteora-fee-routing  
+**Contact**: @lemo1bot on GitHub
